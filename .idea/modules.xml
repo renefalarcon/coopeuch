@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/coopeuch/coopeuch.iml" filepath="$PROJECT_DIR$/coopeuch/coopeuch.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/proyectosGit.iml" filepath="$PROJECT_DIR$/.idea/proyectosGit.iml" />
     </modules>
   </component>
